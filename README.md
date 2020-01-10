@@ -66,7 +66,7 @@ QA(领头的测试者) | [林新棋](https://gitee.com/xinqi3050)
 ### [原型文档下载](https://github.com/xinqi3050/Travel-around-prototype)
 
 ### 产品原型展示
-![用户界面](https://images.gitee.com/uploads/images/2019/1116/133331_0934a28e_1648150.png "用户界面.png")
+![功能预览图](https://github.com/xinqi3050/museum/blob/master/%E5%8A%9F%E8%83%BD%E9%A2%84%E8%A7%88%E5%9B%BE.png)
 
 ### 口头操作说明
 
