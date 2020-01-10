@@ -60,12 +60,7 @@ QA(领头的测试者) | [林新棋](https://gitee.com/xinqi3050)
  
 ----- 
 
-## 交互及界面设计
-
-### [原型文档查看](http://xinqi3050.gitee.io/travel-around-prototype)
-### [原型文档下载](https://github.com/xinqi3050/Travel-around-prototype)
-
-### 产品原型展示
+### 产品功能预览图
 ![功能预览图](https://github.com/xinqi3050/museum/blob/master/%E5%8A%9F%E8%83%BD%E9%A2%84%E8%A7%88%E5%9B%BE.png)
 
 ### 口头操作说明
@@ -125,6 +120,3 @@ CUID = "123456PYTHON";
 > ### 百度语音合成API的Python调用代码
 [→ 点击此处查看](https://github.com/xinqi3050/wandering_around/blob/master/tts.py)
 
-## 清单
-### [原型文档查看](http://xinqi3050.gitee.io/travel-around-prototype)
-### [原型文档下载](https://github.com/xinqi3050/Travel-around-prototype)
